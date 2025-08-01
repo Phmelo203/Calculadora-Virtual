@@ -21,9 +21,9 @@ Multiplicação (×)
 
 Divisão (÷)
 
-Limpar tela (C / AC)
+Limpar tela (C)
 
-Apagar último dígito (←)
+Apagar último dígito (<)
 
 Suporte a ponto decimal
 
