@@ -7,7 +7,7 @@ HTML5: Estrutura da página.
 
 CSS3: Estilização e layout responsivo.
 
-JavaScript (Vanilla JS): Lógica da calculadora e manipulação de eventos.
+JavaScript: Lógica da calculadora e manipulação de eventos.
 
 📸 Captura de Tela
 <img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/232c535a-3029-41d0-a7a6-32f080a723cb" />
